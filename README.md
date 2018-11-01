@@ -1,5 +1,5 @@
 # React-Cotizador-de-Criptomonedas-al-instante-con-Axios
 
- Cotizador de Criptomonedas al instante con Axios y React
+Sistema de trailers de Peliculas Online realizado con React y Axios
  
- https://criptomonedas.cristiandavidpinto.com/
+
